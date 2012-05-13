@@ -20,4 +20,8 @@ and you are gtg
 
 <http://riotvan.net>
 
-it calls <http://riotvan.dyndns.org> to figure out if the office is opened (electricity turned on == server goes online)
+when the dot in the upper right corner turns green means someone's in the office
+
+### how does it work
+
+it makes an ajax call to <http://riotvan.dyndns.org> to figure out if the office is opened (electricity turned on == server goes online)
