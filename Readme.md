@@ -3,7 +3,7 @@
 
 uses CORS headers so you can reach it trough ajax calls
 
-jus
+just
 
     bundle
 
